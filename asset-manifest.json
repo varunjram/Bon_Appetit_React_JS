@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://varunjram.github.io/csb-x3r23/static/css/main.8a35e799.chunk.css",
+    "main.js": "https://varunjram.github.io/csb-x3r23/static/js/main.ee03e51d.chunk.js",
+    "main.js.map": "https://varunjram.github.io/csb-x3r23/static/js/main.ee03e51d.chunk.js.map",
+    "runtime-main.js": "https://varunjram.github.io/csb-x3r23/static/js/runtime-main.3182991a.js",
+    "runtime-main.js.map": "https://varunjram.github.io/csb-x3r23/static/js/runtime-main.3182991a.js.map",
+    "static/js/2.7978ebfa.chunk.js": "https://varunjram.github.io/csb-x3r23/static/js/2.7978ebfa.chunk.js",
+    "static/js/2.7978ebfa.chunk.js.map": "https://varunjram.github.io/csb-x3r23/static/js/2.7978ebfa.chunk.js.map",
+    "index.html": "https://varunjram.github.io/csb-x3r23/index.html",
+    "static/css/main.8a35e799.chunk.css.map": "https://varunjram.github.io/csb-x3r23/static/css/main.8a35e799.chunk.css.map",
+    "static/js/2.7978ebfa.chunk.js.LICENSE.txt": "https://varunjram.github.io/csb-x3r23/static/js/2.7978ebfa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3182991a.js",
+    "static/js/2.7978ebfa.chunk.js",
+    "static/css/main.8a35e799.chunk.css",
+    "static/js/main.ee03e51d.chunk.js"
+  ]
+}
